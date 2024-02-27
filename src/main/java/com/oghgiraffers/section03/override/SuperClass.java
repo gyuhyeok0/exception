@@ -1,0 +1,15 @@
+package com.oghgiraffers.section03.override;
+
+import java.io.IOException;
+
+public class SuperClass {
+
+    /*수업목표. 오버라이딩 성립 요건 중 예외를 throws 하는 구문에 대한 성립요건을 이해 할 수 있다.  */
+
+    public void method() throws IOException {
+
+
+
+    }
+
+}
